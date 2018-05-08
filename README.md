@@ -1,8 +1,8 @@
 # RADical NARRatives Taxonomies
 
-This repository provides a collaboration space for refining the Radical Narratives Taxonomies developed as part of the [TRIVALENT EU project](https://trivalent-project.eu).
+This repository provides a collaboration space for refining the Radical Narratives Taxonomies developed as part of the [TRIVALENT EU project](https://trivalent-project.eu). In particular, TRIVALENT members are encouraged to [report issues](https://github.com/rdenaux/radnarr/issues) with the taxonomies using this Github repository.
 
-It still needs to be decided whether the final taxonomies will be made available to the wider public, or whether they will be available only to TRIVALENT partners.
+It still needs to be decided whether the final taxonomies will be made available to the wider public, or whether they will be available only to TRIVALENT partners. However, if you are interested in using this taxonomy, please contact us to see how we can collaborate.
 
 ## Overall design
 The basic design of the taxonomies is described in detail in Deliverable 3.2 of TRIVALENT. However, since it is not a public document, we provide a short description here.
